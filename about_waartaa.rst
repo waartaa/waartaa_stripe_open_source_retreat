@@ -12,11 +12,12 @@ Waartaa took birth out of sheer necessity and due to a prevalent disatisfaction
 with the existing IRC clients. Although, open source organizations tend to
 stick to IRC, smaller teams and startups started moving to other communication
 tools (e.g., Hipchat). I can think of some reasons for this migration:
-- No setup (SAAS)
-- Better clients
 
-  - Always in sync
-  - Accessible from multiple devices
+- No setup (SAAS)
+- Better clients:
+
+  - always in sync
+  - accessible from multiple devices
 - Better notification
 - Plethora of pre built plug-n-play plugins
 - Other communication modes: audio, video
@@ -32,6 +33,7 @@ Current status
 Waartaa is still in it's early days. We work on Waartaa after (or before)
 office hours and on weekends. Despite of the odds, we now have a proof of
 concept. Following is what we have implemented so far in Waartaa:
+
 - Realtime IRC client as a service
 - Centralized logging
 - 24x7 idling
