@@ -11,6 +11,7 @@ TODOS
 - Secure authentication with IRC servers
 - Wizard to help new users find channels they are looking for
 - API to export logs
+- Friend finder
 - Improve UX
 
   - keyboard shortcuts for navigation
