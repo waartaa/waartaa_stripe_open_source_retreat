@@ -8,5 +8,6 @@ Contents
 
 - `About <about_waartaa.rst>`_
 - `History <history.rst>`_
+- `Importance <importance.rst>`_
 - `Impact of grant <impact_of_grant.rst>`_
 - `TODOS <TODOS.rst>`_
