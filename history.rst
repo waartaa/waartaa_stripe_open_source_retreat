@@ -1,3 +1,6 @@
+History
+=======
+
 The need for a better communication tool for IRC is nothing new. It had been
 existing for a long time (since our days in college, when we started with
 FOSS). Some of the problems we faced were (are):

@@ -1,3 +1,6 @@
+Impact of grant
+===============
+
 We are excited and passionate about Waartaa. Waartaa has got loads of TODOs to
 reach at a competitive level with the peer proprietary communication tools.
 Nevertheless, Waartaa is not limited to be another clone for proprietary tools,
